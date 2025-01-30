@@ -27,3 +27,19 @@ function agregarAmigo(){
 
 let listadoHTML=document.querySelector('#listaAmigos');
 listadoHTML.innerHTML='';
+
+let amigoSecreto=''
+
+//Para sortear el amigo secreto y mostrarlo
+function sortearAmigo(){
+  if(tamaño<=0){
+    alert("No tiene amigos en la lista")
+  } else{
+    let numeroAleatoreo=parseInt(Math.floor(Math.random()*tamaño));
+    console.log(numeroAleatoreo)
+    amigoSecreto=listaAmigos[numeroAleatoreo]
+    console.log(amigoSecreto)
+    listadoHTML.innerHTML=`¡El amigo secreto sorteado es: ${amigoSecreto}!`
+    return 
+  }
+}
