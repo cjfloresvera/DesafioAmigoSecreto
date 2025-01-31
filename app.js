@@ -3,6 +3,7 @@ let listaAmigos=[];
 let nombreAmigo=""
 let tamaño=""
 let linea=""
+
 //Agrega amigos a la lista
 //REVISAR PORQUÉ ME SALE ERROR DE TIEMPO
 function agregarAmigo(){
@@ -21,9 +22,12 @@ function agregarAmigo(){
           listadoHTML.appendChild(linea);          
         }
       } else {
-            alert("Por favor ingrese un nombre válido");
+        alert("Por favor ingrese un nombre válido"); 
         }
+      return;
 }
+
+
 
 let listadoHTML=document.querySelector('#listaAmigos');
 listadoHTML.innerHTML='';
