@@ -31,4 +31,4 @@
 ## Autores:
 
 |<img width="115" alt="foto cv" src="https://github.com/user-attachments/assets/5243b85e-4383-4fe5-ae26-65ac2f5438ce" />
- [ <br><sub>Camila Flores Vera</sub>](https://github.com/camilafernanda) | 
+ [ <br><sub>Camila Flores Vera</sub>](https://github.com/cjfloresvera) | 
