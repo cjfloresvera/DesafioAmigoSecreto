@@ -11,9 +11,20 @@
   Para ejecutar el sistema debes ```ejecutar el html de la carpeta del proyecto``` 
 
 ## :hammer:Funcionalidades del proyecto
-
+<img width="924" alt="image" src="https://github.com/user-attachments/assets/f20b3f60-a378-4b07-af4b-b356c43f6a82" />
 - `Funcionalidad 1`: Agregar nombres: Los usuarios escriben el nombre de un amigo en un campo de texto y se agrega a una lista visible al hacer clic en "Adicionar".
+<img width="924" alt="image" src="https://github.com/user-attachments/assets/0d793fd8-cc37-4a63-abdd-f7322085b823" />
+<img width="924" alt="image" src="https://github.com/user-attachments/assets/6cd38ef4-1a8f-47db-962e-e9231bd9d0fc" />
+
 - `Funcionalidad 2`: Validar entrada: Si el campo de texto está vacío, el programa muestra una alerta pidiendo un nombre válido.
+
+<img width="924" alt="image" src="https://github.com/user-attachments/assets/c4d4f665-596f-4b09-aabf-a7b466d8776e" />
+
 - `Funcionalidad 3`: Visualizar la lista: Los nombres ingresados aparecen en una lista debajo del campo de entrada.
+
+<img width="924" alt="image" src="https://github.com/user-attachments/assets/b7fc5d36-aeba-4bde-a3bd-bc848aa33332" />
+
 - `Funcionalidad 4`: Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se selecciona aleatoriamente un nombre de la lista y se muestra en la página.
   
+<img width="924" alt="image" src="https://github.com/user-attachments/assets/7c6509dd-cd1d-4947-9f6a-e09b8f579e65" />
+
