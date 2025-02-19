@@ -28,3 +28,6 @@
   
 <img width="924" alt="image" src="https://github.com/user-attachments/assets/7c6509dd-cd1d-4947-9f6a-e09b8f579e65" />
 
+## Autores:
+
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) | 
