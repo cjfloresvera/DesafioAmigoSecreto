@@ -12,6 +12,7 @@
 
 ## :hammer:Funcionalidades del proyecto
 <img width="924" alt="image" src="https://github.com/user-attachments/assets/f20b3f60-a378-4b07-af4b-b356c43f6a82" />
+
 - `Funcionalidad 1`: Agregar nombres: Los usuarios escriben el nombre de un amigo en un campo de texto y se agrega a una lista visible al hacer clic en "Adicionar".
 <img width="924" alt="image" src="https://github.com/user-attachments/assets/0d793fd8-cc37-4a63-abdd-f7322085b823" />
 <img width="924" alt="image" src="https://github.com/user-attachments/assets/6cd38ef4-1a8f-47db-962e-e9231bd9d0fc" />
